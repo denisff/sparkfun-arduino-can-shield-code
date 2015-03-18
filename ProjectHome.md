@@ -1,0 +1,1 @@
+This code will provide the user all the code necessary to start up a basic CAN Bus sniffer for various applications using the Arduino CAN bus shield
